@@ -11,3 +11,5 @@ Repository area
 git add <file>- changes file from working area to staged area
 
 git remote - lists all remote connection made
+
+bruh merge conflict happens when multiple people make changes to the same file and then collabrate 
