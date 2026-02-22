@@ -1,0 +1,11 @@
+git init- adds .git folder in the directory contains data
+used by git to manage the repo locally
+
+the code stays in one of the following location:
+Working area - files initially untracked by git , theyre not in staging area 
+
+Staged area
+
+Repository area
+
+git add <file>- changes file from working area to staged area
