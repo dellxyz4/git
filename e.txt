@@ -6,7 +6,7 @@ Working area - files initially untracked by git , theyre not in staging area
 
 Staged area
 
-Repository area
+Repository area.
 
 git add <file>- changes file from working area to staged area
 
