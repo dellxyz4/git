@@ -9,3 +9,5 @@ Staged area
 Repository area
 
 git add <file>- changes file from working area to staged area
+
+git remote - lists all remote connection made
